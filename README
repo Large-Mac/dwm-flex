@@ -1,0 +1,18 @@
+patches applied:
+
+fakefullscreen
+swallow
+fibonacci (dwindle)
+deck
+vanitygaps
+
+patches that I must apply after cleaning:
+
+actualfullscreen
+xresources
+
+patches I am considering:
+
+keychord
+stacker
+keychain
